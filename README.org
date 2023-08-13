@@ -2,9 +2,8 @@
 
 Elasticsearch Client for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/FiV0/cl-elasticsearch.git   |
-| commit  | 2b85251  |
-| systems | cl-elasticsearch |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/FiV0/cl-elasticsearch.git |
+| commit  | 2b85251                                          |
+| systems | (cl-elastic)                                     |
+|---------+--------------------------------------------------|
